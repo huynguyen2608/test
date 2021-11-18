@@ -1,4 +1,4 @@
-module GolangRestAPi
+module GolangRestApi
 
 go 1.17
 

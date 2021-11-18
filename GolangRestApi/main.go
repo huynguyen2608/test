@@ -1,7 +1,7 @@
 package main
 
 import (
-	"GolangRestAPi/userapi"
+	"GolangRestApi/userapi"
 	"fmt"
 	"net/http"
 	"github.com/gorilla/mux"
